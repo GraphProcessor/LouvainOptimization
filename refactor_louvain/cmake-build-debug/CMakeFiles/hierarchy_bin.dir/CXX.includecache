@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yche/GitRepos/LouvainOptimization/refactor_louvain/main_hierarchy.cpp
+cstdlib
+-
+iostream
+-
+iomanip
+-
+fstream
+-
+vector
+-
+

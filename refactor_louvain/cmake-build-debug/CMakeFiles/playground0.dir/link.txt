@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/playground0.dir/playground/main_random.cpp.o  -o playground0 

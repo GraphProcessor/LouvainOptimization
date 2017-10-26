@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/convert_bin.dir/main_convert.cpp.o CMakeFiles/convert_bin.dir/graph.cpp.o  -o convert_bin 

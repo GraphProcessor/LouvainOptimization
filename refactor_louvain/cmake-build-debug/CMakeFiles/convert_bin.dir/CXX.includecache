@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yche/GitRepos/LouvainOptimization/refactor_louvain/graph.cpp
+graph.h
+/home/yche/GitRepos/LouvainOptimization/refactor_louvain/graph.h
+
+/home/yche/GitRepos/LouvainOptimization/refactor_louvain/graph.h
+stdlib.h
+-
+stdio.h
+-
+iostream
+-
+iomanip
+-
+fstream
+-
+vector
+-
+map
+-
+set
+-
+algorithm
+-
+
+/home/yche/GitRepos/LouvainOptimization/refactor_louvain/main_convert.cpp
+graph.h
+/home/yche/GitRepos/LouvainOptimization/refactor_louvain/graph.h
+
