@@ -1,0 +1,3 @@
+add_executable(convertFileToBinary convertFileToBinary.cpp)
+add_executable(convertFileToEdgeList convertFileToEdgeList.cpp)
+add_executable(convertSnapFileToBinary convertSnapFileToBinary.cpp)
